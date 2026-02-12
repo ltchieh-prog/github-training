@@ -1,4 +1,6 @@
 This is Day 3.
 I connected my computer to GitHub.
 Day 4 – I am learning git status.
+Day 6 – I edited this file safely.
+
 
