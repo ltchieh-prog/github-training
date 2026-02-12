@@ -1,2 +1,4 @@
 This is Day 3.
 I connected my computer to GitHub.
+Day 4 – I am learning git status.
+
